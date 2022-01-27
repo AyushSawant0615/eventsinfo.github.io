@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.dropdown-toggle {
+  padding: 5px;
+  text-decoration: none;
+  background-color: #ffffff;
+  display: inline-block;
+  font-size: large;
+  border: 1px solid #666363;
+  width: 20%;
+  margin-bottom: -1px;
+  text-align: left;
+}
+
+.card{
+  background-color: #f7f5e4;
+  
+}
+.white{
+  background-color: #ffffff;
+  border-width: thin;
+  border-color: rgb(161, 159, 159);
+}
+.grey{
+  margin-top: 2%;
+  background-color: #d8eff0;
+  font-size: smaller;
+  height: 80%;
+}
+.left{
+  text-align: right;
+}
+.center{
+  text-align: center;
+}
+.milagedet{
+  width: 97%;
+  height: 10%;
+  padding-top: 5%;;
+  text-align: left;
+}
+.right{
+   width: 100%;
+  
+}
+.size{
+  width: 100%;
+  margin:0;
+  padding:0;
+  overflow-x:hidden;
+}
+.big{
+  width: 30px;
+    height: 30px;
+    font-size: 30px;
+}
+.edit{
+  margin-top: 2%;
+  border-left: 5px solid rgb(145, 67, 248);
+     
+}
+.ed{
+
+  border-left: 5px solid rgb(145, 67, 248);
+     
+}
+.yel{
+  background-color: #e9d208;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+.green{
+  background-color: #09c027;
+  width: fit-content;
+  color: #ffffff;
+  margin-left: 2%;
+  font-size: small;
+}
+.orange{
+  background-color: #df7715;
+  width: fit-content;
+  color: #ffffff;
+  margin-left: 2%;
+  font-size: small;
+}
+.mar{
+  margin-left: 2%;
+}
+.fonts{
+  font-size: small;
+}
+.space{
+  margin: 3%;
+}
+.since{
+  font-size: small;
+}
+.name{
+  font-size: x-large;
+  font-weight: bold;
+}
+.activ{
+  background-color: rgb(6, 209, 16);
+  padding: 8%;
+  padding-right: 8%;
+  border-radius: 75px 75px;
+  
+  color: #ffffff;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.w{
+  background-color: #ffffff;
+  border: 0px;
+}
+.reach{
+  border: 1px solic black;
+}
+.sp{
+  
+  padding-right: 10%;
+}
+.s{
+  font-weight: bold;
+}
+.h{
+  font-size: larger;
+  font-weight: bold;
+}
+.avatar {
+  vertical-align: middle;
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+}
+.offer{
+  width: 60%;
+  font-size: small;
+  font-weight: bold;
+}
+.b{
+  font-size: large;
+}
